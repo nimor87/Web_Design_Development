@@ -29,4 +29,10 @@ Not an expert but these are some channels i sometimes watch about design topics 
 
 - [theFutur - Youtube](https://www.youtube.com/user/TheSkoolRocks/videos): many videos about design in general but also about ui/ux: [here](https://www.youtube.com/user/TheSkoolRocks/search?query=ui)
 
+## Design Tools
+
+Usually people use the adobe suite for all things design related. But they are extremely expensive so in the video description is a list of alternative free tools:
+
+[Free Design Tools](https://www.youtube.com/watch?v=2Ef_vasgHlU)
+
 
